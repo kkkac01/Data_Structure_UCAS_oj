@@ -1,3 +1,4 @@
+/*编写算法求一元多项式P_n(x)=a_0+a_1*x+a_2*x^2+...+a_n*x^n的值*/
 #include <stdio.h>
 
 int main()

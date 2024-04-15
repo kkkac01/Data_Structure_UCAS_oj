@@ -1,3 +1,4 @@
+/*写一个算法，自大到小依次输出顺序读入的三个整数，x，y和z的值*/
 #include <stdio.h>
 
 void swap(long long *x, long long *y)
